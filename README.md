@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gopheramit
-- 👀 I’m interested in Golang,Blockchain
-- 🌱 I’m currently learning defi,dapps
-- 💞️ I’m looking to collaborate on blockachin/golang projects
+- 👀 I’m interested in Golang,Microservices,K8S
+- 🌱 I’m currently learningto create Interpreter in Go.
+- 💞️ I’m looking to collaborate Golang projects
 - 📫 How to reach me -amitwpu@gmail.com
 
 <!---
